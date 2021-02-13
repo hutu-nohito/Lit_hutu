@@ -8,7 +8,7 @@
 <body>
 <a-scene>
 <a-assets>
-<img id="test" src="https://github.com/hutu-nohito/Lit_hutu/blob/main/img/PLATEAU_banner.png">
+<img id="test" src="https://hutu-nohito.github.io/Lit_hutu/img/PLATEAU_banner.png">
 </a-assets>
 <a-entity geometry="primitive: plane" material="src: #test" rotation="0 180 0"></a-entity>
 </a-scene>
