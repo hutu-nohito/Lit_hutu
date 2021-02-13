@@ -8,8 +8,8 @@
 <body>
 <a-scene>
 <a-assets>
-<img id="test" src="https://hutu-nohito.github.io/Lit_hutu/img/atre.png">
+<img id="test" src="https://hutu-nohito.github.io/Lit_hutu/img/ater.png">
 </a-assets>
-<a-entity geometry="primitive: box" material="src: #test" depth='0.1' height='1' width='1' rotation="0 0 0"></a-entity>
+<a-entity geometry="primitive: box; depth='0.1' height='1' width='1'" material="src: #test" rotation="0 0 0"></a-entity>
 </a-scene>
 </body>
