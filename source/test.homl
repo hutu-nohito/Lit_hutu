@@ -7,6 +7,6 @@
 </head>
 <body>
 <a-scene>
-<a-box color='white' depth='1' height='1' width='1'>
+<a-box color='blue' depth='1' height='0.5' width='0.5'>
 </a-scene>
 </body>
